@@ -1,2 +1,4 @@
 # maven-quiz
-maven构建测试
+
+- maven构建springboot jar
+- docker构建基于maven的容器
